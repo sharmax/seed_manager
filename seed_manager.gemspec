@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Seed Files Manager}
   spec.description   = %q{A tool to generate and update seed data and use it in all environments such as test cases,
                           setting up development environment, recovering lost metadata et cetera}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/sharmax"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
