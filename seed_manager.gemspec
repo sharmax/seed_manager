@@ -9,9 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["sharmax"]
   spec.email         = ["sharmax.dev@gmail.com"]
 
-  spec.summary       = %q{Seed Files Manager}
-  spec.description   = %q{A tool to generate and update seed data and use it in all environments such as test cases,
-                          setting up development environment, recovering lost metadata et cetera}
+  spec.summary       = %q{Seed Files Manager: A tool to generate and update seed data and use it in all environments such as test cases, setting up development environment, recovering lost metadata et cetera.}
+  spec.description   = %q{Current Status: Working on Design to be implemented}
   spec.homepage      = "https://github.com/sharmax"
   spec.license       = "MIT"
 
